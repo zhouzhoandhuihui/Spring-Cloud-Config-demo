@@ -1,1 +1,1 @@
-HELLO = "hello ,im test";
+HELLO: hello ,im test
